@@ -4,8 +4,37 @@ GRASPS model
 
 *Summary:*
 
-The article by Goteng, Shohel, and Tarig explores how universities can enhance student employability through collaboration with industries. Specifically, it examines a partnership between a university and Amazon Web Services (AWS) Academy. By incorporating industry-based practical hands-on labs into the curriculum, the study finds that students become more engaged and better prepared for immediate employment after graduation. This approach ensures that students acquire both theoretical knowledge and practical skills necessary for careers in cloud computing.
+The article by Goteng, Shohel, and Tarig explores how universities can enhance student 
+employability through collaboration with industries. Specifically, it examines a partnership 
+between a university and Amazon Web Services (AWS) Academy. By incorporating industry-based 
+practical hands-on labs into the curriculum, the study finds that students become more engaged 
+and better prepared for immediate employment after graduation. This approach ensures that students 
+acquire both theoretical knowledge and practical skills necessary for careers in cloud computing.
+
+*Goal*  
+The goal of the updated cloud computing curriculum is to give students theoretical and practical knowledge that is in line with industry norms. By using AWS Academy tools to educate skills like scalability, virtualization, data analytics, and high-performance computing, the emphasis is on promoting employability.  
+
+
+*Role*  
+Students use cloud technology to solve real-world problems in the role of future cloud computing experts. They participate in practical laboratories and tests that mimic tasks like big data analysis and scalable system design that are seen in professional IT settings.  
+
+*Audience*  
+Employers using cloud computing, educational institutions, governments, and IT companies such as AWS are among the audience members. Students demonstrate to these stakeholders their abilities and preparedness to meet industry demands.  
+
+*Situation*  
+Students work in real-world situations where cloud computing is essential to solving commercial and technology problems. They use their knowledge of distributed computing, virtualization, and data analytics to tackle problems that are representative of business demands.  
+
+*Product/ Performance*  
+Students produce useful products including analytical reports, simulations, and prototypes. They show that they can successfully deploy, troubleshoot, and administer cloud-based systems using AWS Academy tools.
+
+
+
+
+
+
+
 
 *Simple Correct Answer:*
 
 The article discusses how partnering with AWS Academy can improve students' job readiness by combining theoretical learning with practical industry experience.
+
